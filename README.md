@@ -24,7 +24,6 @@ I use forks to work through courses, textbooks, and other people's codebases han
 - **[DLTF](https://github.com/divaadaan/DLTF)** — *Deep Learning with TensorFlow and Keras* (Packt), worked exercises
 - **[dj4e](https://github.com/divaadaan/dj4e)** — *Django for Everybody* coursework
 - **[Full-Stack-Development-with-Spring-Boot-3-and-React](https://github.com/divaadaan/Full-Stack-Development-with-Spring-Boot-3-and-React-Fourth-Edition)** — Spring Boot 3 + React, worked exercises
-- **[text-generation-webui](https://github.com/divaadaan/text-generation-webui)** — exploring local inference backends via oobabooga's UI
 - **[flipp_flyer_parser](https://github.com/divaadaan/flipp_flyer_parser)** — adapted for my own grocery-pricing use case (feeds into `grocery-optimizer`)
 
 #### Stack
