@@ -1,7 +1,6 @@
 ### Hi, I'm Dan 👋
 
-<!-- ADD: one or two lines on what you do day-to-day / what you're focused on right now, e.g.:
-"Software engineer working on [domain]. Lately spending time on local-LLM tooling and agent workflows." -->
+I'm a Software engineer focused on NLP and machine learning, and a hobbyist game developer. Lately spending time on local-LLM tooling and agent workflows, as well as furiously leading the programming of a Unity/C# game development project. I have an iterative, agentic supported approach to development, with a proven ability to synthesize new and emerging research into my work. I love more than anything to dive right in to new problem areas and get right down to experimenting.
 
 ---
 
@@ -15,8 +14,7 @@
 
 Some of my work is under private repos rather than missing entirely — client engagements and product work I keep private per the service agreement, not because there's nothing to show. Happy to walk through the details or share a demo on request.
 
-<!-- Optional, if you want one concrete example without specifics:
-- Built a [domain] analysis tool for a client — private under our agreement, but I can talk through the architecture and tradeoffs in an interview. -->
+- Built a hybrid ML/LLM automated essay scoring pipeline for an edutech client — private under our agreement, but I can talk through the architecture and tradeoffs in an interview.
 
 #### Learning in public
 
@@ -31,9 +29,6 @@ I use forks to work through courses, textbooks, and other people's codebases han
 
 #### Stack
 
-<!-- ADD/trim to taste -->
-Python · FastAPI · TypeScript/React · Django · TensorFlow/Keras · local LLM tooling (Ollama, agents)
+Python · FastAPI · TypeScript/React · Java · TensorFlow/Keras · local LLM tooling (Ollama, agents)
 
 ---
-
-<!-- ADD: contact links if you want them — LinkedIn, blog, email -->
