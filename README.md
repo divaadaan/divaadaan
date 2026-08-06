@@ -8,7 +8,6 @@ I'm a Software engineer focused on NLP and machine learning, and a hobbyist game
 
 - **[grocery-optimizer](https://github.com/divaadaan/grocery-optimizer)** — Multi-agent meal-planning system built on LangGraph: parallel "SousChef" agents generate recipes against real flyer pricing data, a "Nutritionist" agent validates output with retry logic, all LLM output enforced through Pydantic schemas. FastAPI + Postgres backend, React/TypeScript frontend, dockerized, with a real pytest suite. Deal data is sourced through a parser I adapted from [flipp_flyer_parser](https://github.com/divaadaan/flipp_flyer_parser).
 - **[ollama-api](https://github.com/divaadaan/ollama-api)** — FastAPI service for local LLM development, used to test a `smolagents` agent against a self-hosted model.
-- **[game-demo](https://github.com/divaadaan/game-demo)** — Small JS test harness for a dual-grid system from a Unity project of mine, with the announce trailer due this fall (2026)
 
 #### Client & commercial work
 
